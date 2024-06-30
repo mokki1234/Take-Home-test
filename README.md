@@ -1,7 +1,9 @@
 End-to-End Test Suite
+
 This repository contains an end-to-end test suite for the Swag Labs  using Playwright. The tests follow the Page Object Model (POM) design pattern.
 
 Prerequisites
+
 Before running the tests, ensure you have the following prerequisites installed:
 
 Node.js: Make sure you have Node.js installed on your machine. You can download it from the official website.
