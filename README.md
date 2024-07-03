@@ -1,4 +1,4 @@
-Certainly! Here's a comprehensive README file template for your SauceDemo end-to-end test suite using Playwright and the Page Object Model (POM) design pattern. This README will cover the setup, usage, and structure of your test suite.
+Certainly! Here's a comprehensive README file template for your SwaglabsDemo end-to-end test suite using Playwright and the Page Object Model (POM) design pattern. This README will cover the setup, usage, and structure of your test suite.
 
 ---
 
