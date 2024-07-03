@@ -1,7 +1,7 @@
 const { test, expect } = require('@playwright/test');
 const{LoginPage,InventoryPage,CartPage,CheckoutPage} = require('./pageobject');
 
-test('Sawlabs end-to-end test', async ({ page }) => {
+test('Swaglabs end-to-end test', async ({ page }) => {
   const loginPage = new LoginPage(page);
   const inventoryPage = new InventoryPage(page);
   const cartPage = new CartPage(page);
